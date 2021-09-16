@@ -1,0 +1,14 @@
+body{
+  background-color: yellow;
+  color: red;
+}
+p{
+  font-size: 16px;
+}
+#p1{
+  fontsize: 16px;
+  color: black;
+}
+input:hover{
+  background: grey;
+}
